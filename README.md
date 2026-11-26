@@ -40,6 +40,6 @@ A booking system for a college clinic, so students stop queuing just to get an a
 
 I'm looking for internship and early-career opportunities in AI/ML and software engineering. If you're building something interesting, I'd love to hear about it.
 
-- 📧 [your-email@example.com]
-- 💼 [LinkedIn: add your link]
-- 📍 [City, Country]
+- 📧 [rajpriyanshi001@gmail.com]
+- 💼 [LinkedIn: https://www.linkedin.com/in/priyanshi-raj01/]
+- 📍 [Bengaluru, India]
